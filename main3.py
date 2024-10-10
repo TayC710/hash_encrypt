@@ -12,7 +12,6 @@ from flask import session, redirect
 from flask import url_for
 
 from config import APP_STATIC_TXT
-
 app = Flask(__name__)
 
 # 设置文件上传保存路径
