@@ -5,7 +5,7 @@ import hashlib
 from gmssl.sm3 import sm3_hash
 from subkey import get_Kn
 
-
+ 
 def read_file(filename):
     """
     读取文件
